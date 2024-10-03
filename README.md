@@ -1,4 +1,4 @@
-# Tarefa de Programação Orientada a Objetos
+# Tarefa de Programação Orientada a Objetos (Herança)
 
 O repositório no Git foi criado para centralizar projetos que utilizam Programação Orientada a Objetos (POO), facilitando a manutenção e a expansão dos sistemas. Com uma estrutura baseada em classes e objetos, promovemos melhor encapsulação, reutilização de código e aderência a princípios como herança e polimorfismo. Essa abordagem visa aumentar a eficiência do desenvolvimento e a clareza do código, permitindo que colaboradores compreendam e contribuam facilmente.
 
